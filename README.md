@@ -1,2 +1,2 @@
 # Quiz-CFG-Project
-My CFG project 2023 
+My CFG group project 2023 
